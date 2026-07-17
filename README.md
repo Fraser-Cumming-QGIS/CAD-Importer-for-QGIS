@@ -48,6 +48,6 @@ The icon artwork was supplied by Fraser Cumming and created using ChatGPT. CAD I
 
 ## Support
 
-Report bugs and request features through the [GitHub issue tracker](https://github.com/Fraser-Cumming-QGIS/cad-importer-qgis/issues), or email `fraser.qgis.plugins.support@gmail.com`.
+Report bugs and request features through the [GitHub issue tracker](https://github.com/Fraser-Cumming-QGIS/CAD-Importer-for-QGIS/issues), or email `fraser.qgis.plugins.support@gmail.com`.
 
-Source code is maintained at <https://github.com/Fraser-Cumming-QGIS/cad-importer-qgis>.
+Source code is maintained at <https://github.com/Fraser-Cumming-QGIS/CAD-Importer-for-QGIS>.
