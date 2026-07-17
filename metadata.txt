@@ -1,0 +1,18 @@
+[general]
+name=CAD Importer
+description=Import DWG and DXF drawings, assign a CRS, clean geometry, and organise CAD content into QGIS layers.
+version=0.1.0
+qgisMinimumVersion=3.28
+author=Fraser Cumming
+email=fraser.qgis.plugins.support@gmail.com
+about=CAD Importer provides a repeatable Processing workflow for bringing CAD drawings into QGIS. It imports DXF files directly and converts DWG files using a separately installed ODA File Converter. Download ODA File Converter from https://www.opendesign.com/guestfiles/oda_file_converter. Imported features are assigned the selected CRS, repaired, cleaned of duplicate geometry and empty fields, separated by CAD layer and geometry type, labelled from CAD text where available, and styled for inspection. ODA File Converter is not included and DWG conversion is currently supported on Windows. Unlike general-purpose CAD importers, CAD Importer focuses on automated cleanup and ready-to-use QGIS layers after import.
+category=Vector
+tags=cad,dwg,dxf,import,oda,crs,cleanup,labels
+homepage=https://github.com/Fraser-Cumming-QGIS/cad-importer-qgis#readme
+repository=https://github.com/Fraser-Cumming-QGIS/cad-importer-qgis
+tracker=https://github.com/Fraser-Cumming-QGIS/cad-importer-qgis/issues
+icon=icons/cad_importer.png
+hasProcessingProvider=yes
+experimental=True
+deprecated=False
+changelog=Initial experimental release of CAD Importer with DXF import, ODA-assisted DWG conversion, CRS assignment, geometry cleanup, CAD-layer splitting, labels, and styling.
