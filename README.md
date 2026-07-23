@@ -28,15 +28,11 @@ Install a released ZIP from **Plugins > Manage and Install Plugins > Install fro
 
 1. Open **Vector > CAD Importer > CAD Importer**, or find **Import CAD drawing** in the Processing Toolbox.
 2. Select a `.dwg` or `.dxf` drawing.
-3. Use QGIS's standard CRS selector to choose the CRS used by the drawing. There is no default CRS. CAD formats may not contain reliable CRS metadata, so confirm this with the data supplier.
-4. For a DWG drawing, select `ODAFileConverter.exe` if it is not found automatically.
+3. Use QGIS's standard CRS selector to choose the CRS used by the drawing. There is no default CRS.
+4. For a DWG drawing, select the location of the `ODAFileConverter.exe` if it is not found automatically.
 5. Run the tool. Cleaned layers are added to the current project.
 
 The tool does not reproject drawing coordinates. It assigns the CRS you select from the QGIS CRS database to the imported coordinates.
-
-## Privacy and network access
-
-CAD Importer processes drawings locally. It does not upload files or make network requests.
 
 ## Licence
 
