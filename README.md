@@ -16,9 +16,9 @@ CAD Importer is a QGIS Processing plugin for importing and preparing DWG and DXF
 ## Requirements
 
 - QGIS 3.28 or later.
-- For DWG input on Windows: a separately installed copy of ODA File Converter.
+- For DWG input on Windows: a installed copy of ODA File Converter (Free).
 
-ODA File Converter is not included with this plugin. Download it from the [official Open Design Alliance page](https://www.opendesign.com/guestfiles/oda_file_converter). Users are responsible for installing it separately and complying with its licence. DXF import does not require ODA File Converter.
+ODA File Converter is not included with this plugin. Download it from the [official Open Design Alliance page](https://www.opendesign.com/guestfiles/oda_file_converter). For Windows Users the preferred file location for the ODA File Converter executeable is C:\ODA File Converter. Users are responsible for installing it separately and complying with its licence. DXF import does not require ODA File Converter.  
 
 ## Installation
 
