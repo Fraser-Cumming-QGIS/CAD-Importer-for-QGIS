@@ -1,6 +1,6 @@
 # CAD Importer
 
-CAD Importer is a QGIS Processing plugin for importing and preparing DWG and DXF drawings. This Plugin is a continuation from The QGIS DWGDXF Ingestion Tool from RobWilsonTas which can be found here: https://github.com/RobWilsonTas/QGIS_DWGDXF_Ingestion
+CAD Importer is a QGIS Processing plugin for importing and preparing DWG and DXF drawings. This Plugin is a continuation from the QGIS DWGDXF Ingestion Tool from RobWilsonTas which can be found here: https://github.com/RobWilsonTas/QGIS_DWGDXF_Ingestion
 
 ## Features
 
